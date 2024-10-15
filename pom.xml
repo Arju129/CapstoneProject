@@ -9,10 +9,17 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
+<<<<<<< HEAD
 	<artifactId>Movie-vendor-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Movie-vendor-service</name>
 	<description>Movie-vendor-service</description>
+=======
+	<artifactId>Movie-booking-service</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Movie-booking-service</name>
+	<description>Movie-booking-service</description>
+>>>>>>> d4ab68f72ae2a367c91f2be77fae9c38fd50eee4
 	<url/>
 	<licenses>
 		<license/>
